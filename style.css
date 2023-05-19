@@ -1,0 +1,15 @@
+body {
+    background-color: #ffffee;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-family: AmericanTypewriter, monospace;
+}
+
+a:link, a:visited {
+    color: black;
+}
+
+a:hover, a:active {
+    color: red;
+    text-decoration: none !important;
+}
