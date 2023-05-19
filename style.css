@@ -14,10 +14,27 @@ a:hover, a:active {
     text-decoration: none !important;
 }
 
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+td {
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding: 2px;
+}
+
 .box {
     border: 1px solid black;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin: 5px;
+    padding: 10px;
+}
+
+.box-round {
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 5px;
     padding: 10px;
 }
 
