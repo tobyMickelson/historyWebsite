@@ -1,7 +1,7 @@
 body {
-    background-color: #ffffee;
     margin-left: 25px;
     margin-right: 25px;
+    background-color: white;
     font-family: AmericanTypewriter, monospace;
 }
 
@@ -12,4 +12,18 @@ a:link, a:visited {
 a:hover, a:active {
     color: red;
     text-decoration: none !important;
+}
+
+.box {
+    border: 1px solid black;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.hi {
+    background-color: yellow;
 }
