@@ -1,0 +1,3 @@
+light blue: 82c0cc
+dark blue: 465775
+tan: cornsilk
