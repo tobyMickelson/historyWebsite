@@ -1,3 +1,12 @@
+Current
+=======
+
+light blue: b8cdd1
+dark blue:  343f52
+
+Old
+===
+
 light blue: 82c0cc
-dark blue: 465775
-tan: cornsilk
+dark blue:  465775
+tan:        cornsilk
