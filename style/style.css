@@ -23,7 +23,7 @@ main {
 p {
     margin-top: 25px;
     margin-bottom: 25px;
-    line-height: 0.25em
+    line-height: 1.25em
 }
 
 a:link, a:visited {
@@ -52,7 +52,6 @@ hr {
 }
 
 .block {
-    margin-top: 25px;
     margin-bottom: 25px;
 }
 
