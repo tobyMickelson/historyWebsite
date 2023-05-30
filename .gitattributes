@@ -1,0 +1,7 @@
+.gitattributes export-ignore
+.github export-ignore
+.gitignore export-ignore
+colors.txt export-ignore
+LICENSE export-ignore
+README export-ignore
+TODO export-ignorea
